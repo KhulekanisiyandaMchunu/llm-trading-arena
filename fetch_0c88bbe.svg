@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 380 80" width="380" height="80">
+  <defs>
+    <linearGradient id="btnBorder" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#22d3ee"/>
+      <stop offset="100%" stop-color="#a78bfa"/>
+    </linearGradient>
+  </defs>
+  <rect width="380" height="80" rx="14" fill="#0b1020" stroke="url(#btnBorder)" stroke-width="2"/>
+  <rect x="2" y="2" width="376" height="76" rx="12" fill="#22d3ee" fill-opacity="0.05"/>
+  <rect x="16" y="16" width="48" height="48" rx="12" fill="#22d3ee"/>
+  <g transform="translate(-4, -4)"><path d="M 30 50 L 38 38 L 44 42 L 52 28" stroke="#fff" stroke-width="3" stroke-linecap="round" fill="none"/><circle cx="52" cy="28" r="3" fill="#fff"/></g>
+  <text x="84" y="34" fill="#9ca3af" font-family="system-ui, sans-serif" font-size="12" font-weight="700" letter-spacing="1">LLM TRADING ARENA</text>
+  <text x="84" y="58" fill="#ffffff" font-family="system-ui, sans-serif" font-size="20" font-weight="900">Enter the Arena</text>
+</svg>
